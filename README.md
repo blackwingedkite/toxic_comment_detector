@@ -1,5 +1,8 @@
 ﻿HI,
 
+ since the restriction of github, I can't upload the original model files (.h5) and original training data here. To see complete code, please download this google drive link: https://drive.google.com/drive/folders/1PlhkhLE4SImCvwX2oguKtg12Mhn8XW8N?usp=drive_link 
+ thank you.
+
 the Bert\_Model\_trainning.ipynb is the code that train the model. It have shown how to train our model, however, it takes a long period to run. After the model was trained well, we download the data into model\_weight.h5, which is in the DA\_ML final.
 
 The fronted-end related stuff is in the DA\_ML final>app, when running app.py, the python flask framework will start working, and HTML and CSS file is in the templates folder.
